@@ -1,0 +1,5 @@
+# github/rudrprasad05/go-logs
+/logs/*.log
+/tmp
+.DS_Store
+/certificates
